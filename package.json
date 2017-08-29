@@ -1,0 +1,26 @@
+{
+  "name": "expresslibrary",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cplozon/ExpressLibrary.git"
+  },
+  "author": "Cory Lozon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cplozon/ExpressLibrary/issues"
+  },
+  "homepage": "https://github.com/cplozon/ExpressLibrary#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "sequelize": "^4.7.5"
+  }
+}
